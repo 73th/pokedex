@@ -1,9 +1,9 @@
 import "./App.css";
 
-import Bulbizarre from "./components/PokemonCard"
+import PokemonCard from "./components/PokemonCard";
 
 <div>
-  <Bulbizarre/>
-</div>
+	<PokemonCard />
+</div>;
 
-export default Bulbizarre;
+export default PokemonCard;
